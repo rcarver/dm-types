@@ -13,6 +13,6 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_runtime_dependency(%q<dm-core>, ["= 0.9.11"])
-  s.add_runtime_dependency(%q<addressable>, ["~> 2.0.2"])
+  s.add_runtime_dependency(%q<addressable>, ["~> 2.0"])
 end
 
